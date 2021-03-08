@@ -1,3 +1,1 @@
-print("Hello World")
-
-print("Sample Program")
+print("My Sample Program")
